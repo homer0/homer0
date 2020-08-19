@@ -1,0 +1,12 @@
+{
+  "version": 2,
+  "name": "homer0-dev",
+  "alias": ["homer0.dev"],
+  "routes": [
+    {
+      "src": "^/",
+      "status": 301,
+      "headers": { "Location": "https://github.com/homer0" }
+    }
+  ]
+}
