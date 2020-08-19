@@ -1,7 +1,7 @@
 {
   "version": 2,
   "name": "homer0-dev",
-  "alias": ["homer0.dev"],
+  "alias": ["homer0.dev", "homer0.com"],
   "routes": [
     {
       "src": "^/",
