@@ -7,6 +7,11 @@
       "src": "^/",
       "status": 301,
       "headers": { "Location": "https://github.com/homer0" }
+    },
+    {
+      "src": "^/devoffarg",
+      "status": 301,
+      "headers": { "Location": "https://www.youtube.com/playlist?list=PLMhc1i0hQxCMcAr8tob-SBMFnfA5bmDXs" }
     }
   ]
 }
